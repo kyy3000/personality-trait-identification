@@ -15,4 +15,4 @@ marinscos_tweets
 
 id on tviitin id ja pitää itse määritellä. Oletan että käyttis automatisoi tämän.
 
-tiedoston lopussa on kommntoituina koeajoja metodeille, niitä voi käyttää testaamiseen.
+tiedoston lopussa on kommentoituina koeajoja metodeille, niitä voi käyttää testaamiseen.
