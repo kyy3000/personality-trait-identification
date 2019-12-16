@@ -2,7 +2,7 @@
 
 Aja CsvHandler.py
 
-###Metodit:\
+Metodit:\
 **calculateAverageSentiment(csvFileLocation)**\
 getTweetData(id, csvFileLocation)
 
