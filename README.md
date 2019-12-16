@@ -2,8 +2,8 @@
 
 Aja CsvHandler.py
 
-Metodit:\
-**calculateAverageSentiment(csvFileLocation)**\
+**Metodit:**\
+calculateAverageSentiment(csvFileLocation)\
 getTweetData(id, csvFileLocation)
 
 **csvFileLocation:lle valmiiksi seuraavat makrot:**\
