@@ -23,4 +23,4 @@ This folder contains code and files that were used in various phases of the proj
 
 **Personality Recognizer v1.03**\
 Files and instructions to Personality Recognizer v1.03 -program can be found at:
-[a link](http://farm2.user.srcf.net/research/personality/recognizer.html)
+[Personality Recognizer v1.03](http://farm2.user.srcf.net/research/personality/recognizer.html)
