@@ -17,3 +17,6 @@ The steps to launch the program in Anaconda environment
 If you receive an error running the program through VS Code try the alternative method:
 1. Launch Anaconda Prompt (it came installed with Anaconda 3)
 2. Navigate to the folder containing the file GUI.py and run it in python
+
+**The legacy folder**\
+This folder contains code and files that were used in various phases of the project but are not mandatory to run the final program.
