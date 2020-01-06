@@ -22,5 +22,5 @@ If you receive an error running the program through VS Code try the alternative 
 This folder contains code and files that were used in various phases of the project but are not mandatory to run the final program.
 
 **Personality Recognizer v1.03**\
-Files and instructions to Personality Recognizer v1.03 -program can be found at:
+Files and instructions for Personality Recognizer v1.03 -program can be found at:
 [Personality Recognizer v1.03](http://farm2.user.srcf.net/research/personality/recognizer.html)
