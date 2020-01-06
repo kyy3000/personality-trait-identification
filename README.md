@@ -1,4 +1,4 @@
-# personality-trait-identification
+# Project 17: Personality Trait Identification and Emotion
 
 **Run instructions for the project**\
 \
