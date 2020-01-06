@@ -2,9 +2,9 @@
 
 **Run instructions for the project**\
 \
-When it is tried to run GUI.py at the first time, make sure all data and images is in the right folders and unzipped. In our project, we used Anaconda 3 environment. The GUI’s implementation is built by using Anaconda’s Visual studio code and the code has been ran in the software’s terminal. In the folder requirements_for_GUI.txt is listed all needed libraries which did not come with Anaconda download. If it is tried to launch GUI.py in other environment, make sure that there has been downloaded all recommend files that the first launch error might gives.\
+To gain access to the program, download the repository and unzip the file "GUI.zip". In our project, we used Anaconda 3 environment. The GUI’s implementation is built by using Anaconda’s Visual studio code and the code has been ran in the software’s terminal. In the folder requirements_for_GUI.txt is listed all needed libraries which did not come with Anaconda download. If it is tried to launch GUI.py in other environment, make sure that there has been downloaded all recommend files that the first launch error might gives.\
 \
-The steps for launch code in Anaconda environment
+The steps to launch the program in Anaconda environment
 
 1. Download Anaconda 3 with Python 3.7
 2. Download requirements in Anaconda prompt by using conda command
@@ -16,4 +16,4 @@ The steps for launch code in Anaconda environment
 
 If you receive an error running the program through VS Code try the alternative method:
 1. Launch Anaconda Prompt (it came installed with Anaconda 3)
-2. Navigate to the GUI folder of the repository and run “python GUI.py”
+2. Navigate to the folder containing the file GUI.py and run it in python
