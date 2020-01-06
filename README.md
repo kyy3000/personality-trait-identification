@@ -9,8 +9,8 @@ The steps to launch the program in Anaconda environment
 1. Download Anaconda 3 with Python 3.7
 2. Download requirements in Anaconda prompt by using conda command
 3. In Anaconda 3 download Visual Studio Code
-4. Open personality-trait-identification-master folder  in Visual Studio Code
-5. Open file GUI.py and launch the code from button “Run Python file in Terminal”
+4. Open the folder where you unzipped "GUI.zip" in Visual Studio Code
+5. Locate and open file GUI.py and launch the code from button “Run Python file in Terminal”
 6. The application window appear and then you can navigate between pages by using buttons
 7. When you want to close window, push the cross button from the right corner of the application
 
