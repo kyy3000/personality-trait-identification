@@ -14,6 +14,6 @@ The steps for launch code in Anaconda environment
 6. The application window appear and then you can navigate between pages by using buttons
 7. When you want to close window, push the cross button from the right corner of the application
 
-If you receive an error running the program through VS Code try to alternative method:
+If you receive an error running the program through VS Code try the alternative method:
 1. Launch Anaconda Prompt (it came installed with Anaconda 3)
 2. Navigate to the GUI folder of the repository and run “python GUI.py”
