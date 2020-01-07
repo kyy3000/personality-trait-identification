@@ -43,8 +43,6 @@ def importDominantValues(account):
             values = []
             for i in line:
                 i = float(i)             
-                if line.index(str(i)) == 1: # reverse neuroticism scale 
-                    i = (4 - i) + 4
                 absv = abs(4-i)
                 values.append(absv)
             domValue = max(values)
