@@ -1,5 +1,5 @@
+# By K.P.
 import os
-
 
 def createPlottable(path, acc):
     fl = 'Plottable/' + acc + '_plottable + '.txt'
